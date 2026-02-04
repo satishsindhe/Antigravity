@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-02-03T18:45:56.317Z",
-  "total": 626,
+  "generatedAt": "2026-02-04T07:22:30.442Z",
+  "total": 627,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -3090,6 +3090,31 @@
         "moving"
       ],
       "path": "skills/computer-use-agents/SKILL.md"
+    },
+    {
+      "id": "computer-vision-expert",
+      "name": "computer-vision-expert",
+      "description": "SOTA Computer Vision Expert (2026). Specialized in YOLO26, Segment Anything 3 (SAM 3), Vision Language Models, and real-time spatial analysis.",
+      "category": "general",
+      "tags": [
+        "computer",
+        "vision"
+      ],
+      "triggers": [
+        "computer",
+        "vision",
+        "sota",
+        "2026",
+        "specialized",
+        "yolo26",
+        "segment",
+        "anything",
+        "sam",
+        "language",
+        "models",
+        "real"
+      ],
+      "path": "skills/computer-vision-expert/SKILL.md"
     },
     {
       "id": "concise-planning",

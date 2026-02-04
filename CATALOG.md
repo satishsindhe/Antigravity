@@ -1,8 +1,8 @@
 # Skill Catalog
 
-Generated at: 2026-02-03T18:45:56.317Z
+Generated at: 2026-02-04T07:22:30.442Z
 
-Total skills: 626
+Total skills: 627
 
 ## architecture (60)
 
@@ -295,7 +295,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `viral-generator-builder` | Expert in building shareable generator tools that go viral - name generators, quiz makers, avatar creators, personality tests, and calculator tools. Covers t... | viral, generator, builder | viral, generator, builder, building, shareable, go, name, generators, quiz, makers, avatar, creators |
 | `webapp-testing` | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing... | webapp | webapp, testing, toolkit, interacting, local, web, applications, playwright, supports, verifying, frontend, functionality |
 
-## general (128)
+## general (129)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -334,6 +334,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `commit` | Create commit messages following Sentry conventions. Use when committing code changes, writing commit messages, or formatting git history. Follows convention... | commit | commit, messages, following, sentry, conventions, committing, code, changes, writing, formatting, git, history |
 | `comprehensive-review-full-review` | Use when working with comprehensive review full review | comprehensive, full | comprehensive, full, review, working |
 | `comprehensive-review-pr-enhance` | You are a PR optimization expert specializing in creating high-quality pull requests that facilitate efficient code reviews. Generate comprehensive PR descri... | comprehensive, pr, enhance | comprehensive, pr, enhance, review, optimization, specializing, creating, high, quality, pull, requests, facilitate |
+| `computer-vision-expert` | SOTA Computer Vision Expert (2026). Specialized in YOLO26, Segment Anything 3 (SAM 3), Vision Language Models, and real-time spatial analysis. | computer, vision | computer, vision, sota, 2026, specialized, yolo26, segment, anything, sam, language, models, real |
 | `concise-planning` | Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist. | concise, planning | concise, planning, user, asks, plan, coding, task, generate, clear, actionable, atomic, checklist |
 | `context-compression` | Design and evaluate compression strategies for long-running sessions | compression | compression, context, evaluate, long, running, sessions |
 | `context-fundamentals` | Understand what context is, why it matters, and the anatomy of context in agent systems | fundamentals | fundamentals, context, understand, what, why, matters, anatomy, agent |

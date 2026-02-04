@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [4.8.0] - 2026-02-03 - "Computer Vision Expert"
+
+> State-of-the-art Computer Vision skill for 2026 (YOLO26, SAM 3).
+
+### Added
+
+- **New Skill**: `computer-vision-expert` – SOTA 2026 standards for real-time detection (YOLO26), promptable segmentation (SAM 3), and Vision Language Models.
+
+### Registry
+
+- **Total Skills**: 627 (from 626). Catalog regenerated.
+
+---
+
 ## [4.7.0] - 2026-02-03 - "Installer Fix & OpenCode Docs"
 
 > Critical installer fix for Windows and OpenCode documentation completion.
