@@ -2,6 +2,8 @@
 name: clean-code
 description: "Applies principles from Robert C. Martin's 'Clean Code'. Use this skill when writing, reviewing, or refactoring code to ensure high quality, readability, and maintainability. Covers naming, functions, comments, error handling, and class design."
 user-invocable: true
+risk: safe
+source: "ClawForge (https://github.com/jackjin1997/ClawForge)"
 ---
 
 # Clean Code Skill
@@ -10,6 +12,13 @@ This skill embodies the principles of "Clean Code" by Robert C. Martin (Uncle Bo
 
 ## 🧠 Core Philosophy
 > "Code is clean if it can be read, and enhanced by a developer other than its original author." — Grady Booch
+
+## ## When to Use
+Use this skill when:
+- **Writing new code**: To ensure high quality from the start.
+- **Reviewing Pull Requests**: To provide constructive, principle-based feedback.
+- **Refactoring legacy code**: To identify and remove code smells.
+- **Improving team standards**: To align on industry-standard best practices.
 
 ## 1. Meaningful Names
 - **Use Intention-Revealing Names**: `elapsedTimeInDays` instead of `d`.
