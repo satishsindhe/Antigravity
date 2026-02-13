@@ -463,3 +463,5 @@ claude-code, gemini-cli, codex-cli, antigravity, cursor, github-copilot, opencod
 agentic-skills, ai-coding, llm-tools, ai-agents, autonomous-coding, mcp,
 ai-developer-tools, ai-pair-programming, vibe-coding, skill, skills, SKILL.md, rules.md, CLAUDE.md, GEMINI.md, CURSOR.md
 ```
+
+- [AgentIndex](https://github.com/agentidx/agentindex) - AI agent discovery and indexing. 36,000+ agents searchable by capability via REST API, A2A protocol, and MCP server.
