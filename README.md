@@ -32,6 +32,7 @@ This repository provides essential skills to transform your AI assistant into a 
 ## Table of Contents
 
 - [🚀 New Here? Start Here!](#new-here-start-here)
+- [📖 Complete Usage Guide](docs/USAGE.md) - **Start here if confused after installation!**
 - [🔌 Compatibility & Invocation](#compatibility--invocation)
 - [🛠️ Installation](#installation)
 - [🧯 Troubleshooting](#troubleshooting)
@@ -94,7 +95,9 @@ Once installed, just ask your agent naturally:
 > "Use the **@brainstorming** skill to help me plan a SaaS."
 > "Run **@lint-and-validate** on this file."
 
-👉 **[Read the Full Getting Started Guide](docs/GETTING_STARTED.md)**
+👉 **NEW:** [**Complete Usage Guide - Read This First!**](docs/USAGE.md) (answers: "What do I do after installation?", "How do I execute skills?", "What should prompts look like?")
+
+👉 **[Full Getting Started Guide](docs/GETTING_STARTED.md)**
 
 ---
 
@@ -219,26 +222,34 @@ npx antigravity-awesome-skills
 
 **Bundles** are curated groups of skills for a specific role or goal (for example: `Web Wizard`, `Security Engineer`, `OSS Maintainer`).
 
-They help you avoid picking from 700+ skills one by one.
+They help you avoid picking from 860+ skills one by one.
 
-What bundles are:
+### ⚠️ Important: Bundles Are NOT Separate Installations!
 
-- Recommended starting sets for common workflows.
-- A shortcut for onboarding and faster execution.
+**Common confusion:** "Do I need to install each bundle separately?"
 
-What bundles are not:
+**Answer: NO!** Here's what bundles actually are:
 
-- Not a separate install.
-- Not a locked preset.
+**What bundles ARE:**
+- ✅ Recommended skill lists organized by role
+- ✅ Curated starting points to help you decide what to use
+- ✅ Time-saving shortcuts for discovering relevant skills
 
-How to use bundles:
+**What bundles are NOT:**
+- ❌ Separate installations or downloads
+- ❌ Different git commands
+- ❌ Something you need to "activate"
 
-1. Install the repository once.
-2. Pick one bundle in [docs/BUNDLES.md](docs/BUNDLES.md).
-3. Start with 3-5 skills from that bundle in your prompt.
-4. Add more only when needed.
+### How to use bundles:
 
-Examples:
+1. **Install the repository once** (you already have all skills)
+2. **Browse bundles** in [docs/BUNDLES.md](docs/BUNDLES.md) to find your role
+3. **Pick 3-5 skills** from that bundle to start using in your prompts
+4. **Reference them in your conversations** with your AI (e.g., "Use @brainstorming...")
+
+For detailed examples of how to actually use skills, see the [**Usage Guide**](docs/USAGE.md).
+
+### Examples:
 
 - Building a SaaS MVP: `Essentials` + `Full-Stack Developer` + `QA & Testing`.
 - Hardening production: `Security Developer` + `DevOps & Cloud` + `Observability & Monitoring`.
