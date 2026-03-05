@@ -7317,7 +7317,7 @@
     {
       "id": "codebase-audit-pre-push",
       "name": "codebase-audit-pre-push",
-      "description": "Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness.",
+      "description": "Thorough audit before pushing to GitHub. It clears out junk files, dead code, security gaps, and optimization problems. Reviews each file line-by-line for production readiness.",
       "category": "security",
       "tags": [
         "codebase",
@@ -7330,14 +7330,14 @@
         "audit",
         "pre",
         "push",
-        "deep",
+        "thorough",
         "before",
+        "pushing",
         "github",
-        "removes",
+        "clears",
         "junk",
         "files",
-        "dead",
-        "code"
+        "dead"
       ],
       "path": "skills/codebase-audit-pre-push/SKILL.md"
     },

@@ -2964,7 +2964,7 @@
     "path": "skills/codebase-audit-pre-push",
     "category": "development",
     "name": "codebase-audit-pre-push",
-    "description": "Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness.",
+    "description": "Thorough audit before pushing to GitHub. It clears out junk files, dead code, security gaps, and optimization problems. Reviews each file line-by-line for production readiness.",
     "risk": "safe",
     "source": "community",
     "date_added": "2026-03-05"
