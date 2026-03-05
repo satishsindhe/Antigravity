@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 978
+Total skills: 979
 
 ## architecture (67)
 
@@ -789,7 +789,7 @@ scripts. | bash | bash, pro, defensive, scripting, automation, ci, cd, pipelines
 | `workflow-automation` | Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost... |  | automation, infrastructure, makes, ai, agents, reliable, without, durable, execution, network, hiccup, during |
 | `x-twitter-scraper` | X (Twitter) data platform skill — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction too... | [twitter, x-api, scraping, mcp, social-media, data-extraction, giveaway, monitoring, webhooks] | [twitter, x-api, scraping, mcp, social-media, data-extraction, giveaway, monitoring, webhooks], twitter, scraper, data |
 
-## security (116)
+## security (117)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -817,6 +817,7 @@ scripts. | bash | bash, pro, defensive, scripting, automation, ci, cd, pipelines
 | `clerk-auth` | Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync Use when: adding authentication, clerk auth, user authentic... | clerk, auth | clerk, auth, middleware, organizations, webhooks, user, sync, adding, authentication, sign, up |
 | `cloud-penetration-testing` | This skill should be used when the user asks to "perform cloud penetration testing", "assess Azure or AWS or GCP security", "enumerate cloud resources", "exp... | cloud, penetration | cloud, penetration, testing, skill, should, used, user, asks, perform, assess, azure, aws |
 | `code-review-checklist` | Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability | code, checklist | code, checklist, review, conducting, thorough, reviews, covering, functionality, security, performance, maintainability |
+| `codebase-audit-pre-push` | Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness. | codebase, audit, pre, push | codebase, audit, pre, push, deep, before, github, removes, junk, files, dead, code |
 | `codebase-cleanup-deps-audit` | You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for ... | codebase, cleanup, deps, audit | codebase, cleanup, deps, audit, dependency, security, specializing, vulnerability, scanning, license, compliance, supply |
 | `convex` | Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment. | convex | convex, reactive, backend, schema, typescript, functions, real, time, subscriptions, auth, file, storage |
 | `crypto-bd-agent` | Autonomous crypto business development patterns — multi-chain token discovery, 100-point scoring with wallet forensics, x402 micropayments, ERC-8004 on-chain... | crypto, bd, agent | crypto, bd, agent, autonomous, business, development, multi, chain, token, discovery, 100, point |

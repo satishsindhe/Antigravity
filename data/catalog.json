@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 978,
+  "total": 979,
   "skills": [
     {
       "id": "00-andruia-consultant",
@@ -7313,6 +7313,33 @@
         "powered"
       ],
       "path": "skills/code-reviewer/SKILL.md"
+    },
+    {
+      "id": "codebase-audit-pre-push",
+      "name": "codebase-audit-pre-push",
+      "description": "Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness.",
+      "category": "security",
+      "tags": [
+        "codebase",
+        "audit",
+        "pre",
+        "push"
+      ],
+      "triggers": [
+        "codebase",
+        "audit",
+        "pre",
+        "push",
+        "deep",
+        "before",
+        "github",
+        "removes",
+        "junk",
+        "files",
+        "dead",
+        "code"
+      ],
+      "path": "skills/codebase-audit-pre-push/SKILL.md"
     },
     {
       "id": "codebase-cleanup-deps-audit",
