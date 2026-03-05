@@ -274,6 +274,7 @@
         "clerk-auth",
         "cloud-penetration-testing",
         "code-review-checklist",
+        "codebase-audit-pre-push",
         "codebase-cleanup-deps-audit",
         "convex",
         "customs-trade-compliance",

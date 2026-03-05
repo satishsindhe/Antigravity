@@ -2960,6 +2960,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "codebase-audit-pre-push",
+    "path": "skills/codebase-audit-pre-push",
+    "category": "development",
+    "name": "codebase-audit-pre-push",
+    "description": "Thorough audit before pushing to GitHub. It clears out junk files, dead code, security gaps, and optimization problems. Reviews each file line-by-line for production readiness.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-05"
+  },
+  {
     "id": "codebase-cleanup-deps-audit",
     "path": "skills/codebase-cleanup-deps-audit",
     "category": "uncategorized",
